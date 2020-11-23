@@ -1,0 +1,2 @@
+print("テスト")
+print("test")
